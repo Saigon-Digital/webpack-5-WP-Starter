@@ -32,4 +32,4 @@ ln -s /code-directory/wp-barebone-theme-webpack5-sass /var/www/html/wp-content/t
 
 ## Blog Post
 
-Check out a blog post I created that describes configuring webpack to work with WordPress in more detail: [https://taylor.callsen.me/using-webpack-5-and-sass-with-wordpress/](https://taylor.callsen.me/using-webpack-5-and-sass-with-wordpress/)
+Check out a blog post that describes configuring webpack to work with WordPress in more detail: [https://taylor.callsen.me/using-webpack-5-and-sass-with-wordpress/](https://taylor.callsen.me/using-webpack-5-and-sass-with-wordpress/)
